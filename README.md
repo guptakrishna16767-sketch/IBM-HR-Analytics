@@ -128,7 +128,7 @@ This project analyzes the IBM HR Analytics Employee Attrition dataset from Kaggl
 
 ## 📸 Dashboard Preview
 (Add screenshots of your four dashboards here.)
-
+images/Workforce Analysis.jpg
 ### Workforce Overview
 ![Workforce Overview]
 images/[Workforce Analysis].png
